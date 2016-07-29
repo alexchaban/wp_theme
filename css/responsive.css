@@ -1,0 +1,93 @@
+.contact-form.two-columns { min-height: initial; background: #ebebeb; color: #9a9a9a; padding: 45px 0; }
+
+.contact-form.two-columns h2 { font-size: 37px; font-weight: normal; }
+
+.contact-form.two-columns .column { float: none; margin: 0 auto; min-height: initial; border: none; width: 100%; padding: 20px; }
+
+.contact-form.two-columns .column .content-holder { display: block; }
+
+.contact-form.two-columns .column .form-elements { max-width: 100%; }
+
+@media (max-width: 767px) { .three-cols .intro-text img { max-width: 100%; }
+  .category-case-studies .btn-wrapper { padding-top: 210px; background-size: 350px; }
+  .page h2 { font-size: 32px; line-height: 42px; }
+  .page .two-columns { min-height: 0; }
+  .page .two-columns .column > * { max-width: 100%; }
+  .page .logo-wrapper ul.logo-list { overflow-x: auto; overflow-y: hidden; width: 100%; white-space: nowrap; position: relative; display: block; }
+  .page .logo-wrapper ul.logo-list li { margin: 0 10px; display: inline-block; }
+  .page .logo-wrapper ul.logo-list li a { display: table-cell; }
+  .page .btn-wrapper { padding-top: 40px; }
+  .page .btn-wrapper .row .col { padding: 0 0 50px; width: 100%; }
+  .btn-wrapper .row .col { width: 100%; padding-left: 0; padding-right: 0; }
+  .btn-wrapper h2 { font-size: 32px; line-height: 42px; }
+  .banner p { font-size: 22px; line-height: 31px; }
+  .bg-stretch { background-color: #fff; }
+  .btn.btn-gray { min-width: 100%; }
+  .btn-yellow { padding: 15px 20px; }
+  .mask .slide { height: inherit !important; }
+  .testimonial-block span.company, .testimonial-block strong.name { color: #333e49; font-size: 14px; line-height: 1.1; display: block; font-style: normal; margin-bottom: 8px; }
+  .testimonial-block strong.name { font-size: 18px; line-height: 1.1; }
+  .demo-section .row .width-restriction { width: 100%; }
+  .demo-section .row .width-restriction .frame { position: static; -webkit-transform: none; -ms-transform: none; transform: none; } }
+
+@media (max-width: 767px) { .studies-block .col h3 { font-size: 24px; }
+  .studies-block .col .link-wrap { border-color: transparent; margin: 10px; }
+  .studies-block .col .link-wrap a { display: block; color: #fff; font-size: 16px; padding: 15px; margin-bottom: 10px; }
+  .studies-block .col .link-wrap a.btn-gray { background-color: #d7d7d7; }
+  .studies-block .col .link-wrap a.btn-blue { background-color: #00a7e1; }
+  .studies-block .col .link-wrap span { display: none; }
+  .careers-interior .two-columns .btn { font-size: 14px; }
+  .page-template-page-careers .position-block { background-size: 90%; }
+  .testimonials .tabset3 ul li { width: 25vw; }
+  .dog-nas.btn-wrapper.add { padding-top: 165px; background: url(../images/img27.jpg) no-repeat 100% 0; background-size: 90%; }
+  .sf-overview .intro-block .text { margin-left: 0; }
+  .location-section .address-hold { height: 195px; }
+  .location-section .address-hold address { font-size: 22px; }
+  .location-section .address-hold address strong { font-size: 32px; }
+  .location-section .address-hold img { height: 100%; }
+  img[alt="img19-employ"], img[alt="img19"] { width: 250%; position: absolute; left: -34%; bottom: 29%; display: none; }
+  .main-block h2 { font-size: 32px !important; }
+  .orangeicons-bg.threecolumns .col { border-color: rgba(255, 255, 255, 0.4); }
+  .page-template-page-for-employers a.same-height-left:not(.transparent) { min-height: 350px !important; }
+  .page-template-page-for-employers a.same-height-left.transparent .img-wrap, .page-template-page-for-employers a.same-height-left.transparent .wrap, .page-template-page-for-employers a.same-height-left.transparent:before { display: none; }
+  .ats-guide .tabset2 li { width: 25%; }
+  .ats-guide .tabset2 li picture + span { display: none; }
+  .ats-page-columns .btn-holder a.btn { width: 100%; }
+  .promo-block .heading-text p { padding: 0; }
+  .promo-block .heading-text { display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; -webkit-box-orient: vertical; -webkit-box-direction: normal; -webkit-flex-direction: column; -ms-flex-direction: column; flex-direction: column; -webkit-box-align: center; -webkit-align-items: center; -ms-flex-align: center; align-items: center; -webkit-box-pack: center; -webkit-justify-content: center; -ms-flex-pack: center; justify-content: center; height: 100%; padding-top: 0; }
+  .new-scout .col { padding: 0; margin: 20px 0; width: 100%; }
+  .new-scout .col a.block { width: 100%; font-size: 22px; }
+  .link-wrapper { background-image: none; }
+  .link-wrapper:before, .link-wrapper:after { display: none; }
+  .link-wrapper .col { width: 100%; padding: 30px; }
+  .link-wrapper .col:first-child { background: rgba(255, 127, 60, 0.77); }
+  .link-wrapper .col:last-child { background: rgba(27, 168, 222, 0.64); }
+  .link-wrapper .col h3 { font-size: 40px; line-height: 1.2; }
+  .image-thumbs .heading-holder { padding: 35px 20px; }
+  .news-section .row .col { margin: 7% auto; min-width: initial; width: 80%; float: none; }
+  .news-section .row .col .block { text-align: left; }
+  .event { margin-top: 35px; }
+  .event time { font-size: 22px; }
+  .event h3 a { font-size: 27px; }
+  .event div.meta p, .event div.meta time { color: #1ba8df; font-style: normal; display: inline; font-size: 22px; padding: 0 10px; }
+  .event div.meta p + time { border-left: 2px solid #1ba8df; }
+  .events-photos .photos li { width: 80%; margin: 20px auto; float: none; }
+  .sf-overview .intro-block .text { padding-top: 30px; }
+  .cr .demo-section .row { padding: 0 15px; }
+  .demo-section .row .width-restriction .col { width: 100%; }
+  #twocolumns ul.tabset li picture img { display: none !important; }
+  #twocolumns ul.tabset li > a picture { background: url("../images/sprite-small.png") no-repeat; width: 50px; margin: 0 auto; }
+  #twocolumns ul.tabset li > a[href="#tab1"] picture { background-position: 0 2px; }
+  #twocolumns ul.tabset li > a[href="#tab2"] picture { background-position: -57px 2px; }
+  #twocolumns ul.tabset li > a[href="#tab3"] picture { background-position: -114px 2px; }
+  #twocolumns ul.tabset li > a[href="#tab4"] picture { background-position: -172px 2px; }
+  #twocolumns ul.tabset li.active > a[href="#tab1"] picture { background-position: 0 -44px; }
+  #twocolumns ul.tabset li.active > a[href="#tab2"] picture { background-position: -57px -44px; }
+  #twocolumns ul.tabset li.active > a[href="#tab3"] picture { background-position: -114px -44px; }
+  #twocolumns ul.tabset li.active > a[href="#tab4"] picture { background-position: -172px -44px; }
+  #twocolumns ul.tabset li.active > a[href="#tab1"] picture { background-position: 0 -44px; }
+  #twocolumns ul.tabset li.active > a[href="#tab2"] picture { background-position: -57px -44px; }
+  #twocolumns ul.tabset li.active > a[href="#tab3"] picture { background-position: -114px -44px; }
+  #twocolumns ul.tabset li.active > a[href="#tab4"] picture { background-position: -172px -44px; }
+  .video-section .col { float: none; width: 100%; margin: 30px 0; }
+  .video-section .col a h3 { height: initial; overflow: visible; font-size: 26px; white-space: initial; } }

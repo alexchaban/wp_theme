@@ -1,0 +1,90 @@
+.tab-container .tabset li a:before,
+.tab-container .tabset li a:after,
+.tab-container .tabset li:before,
+.tab-container .tabset li:after {
+  content: none; }
+
+.tab-container .tabset1 li:hover:before,
+.tab-container .tabset1 li:hover:after {
+  content: "";
+  background: #33c7f7;
+  height: 2px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 100%; }
+
+.tab-container .tabset1 li:hover:after {
+  top: auto;
+  bottom: 0; }
+
+.tab-container .tabset1 li:hover a:before,
+.tab-container .tabset1 li:hover a:after {
+  content: "";
+  background: #33c7f7;
+  width: 2px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  height: 100%; }
+
+.tab-container .tabset li:hover a:after {
+  left: auto;
+  right: 0; }
+
+.tab-container .tabset1 li.active {
+  border: none; }
+
+.banner:before {
+  background: #0f6396; }
+
+.banner.add:before {
+  background: #fc7e45; }
+
+.ats-guide .tabset2 a:before {
+  left: -12px;
+  transform: translate(0, 0); }
+
+.ats-guide .tabset2 li.active a:before {
+  left: 0; }
+
+.tabset1.yellow li a:before,
+.tabset1.yellow li a:after,
+.tabset1.yellow li:before,
+.tabset1.yellow li:after {
+  content: none; }
+
+.tabset1.yellow li:hover:before,
+.tabset1.yellow li:hover:after {
+  content: "";
+  background: #fea177;
+  height: 2px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 100%; }
+
+.tabset1.yellow li:hover:after {
+  top: auto;
+  bottom: 0; }
+
+.tabset1.yellow li:hover a:before,
+.tabset1.yellow li:hover a:after {
+  content: "";
+  background: #fea177;
+  width: 2px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  height: 100%; }
+
+.tabset1.yellow li:hover a:after {
+  left: auto;
+  right: 0; }
+
+.tabset1.yellow li.active {
+  border: none; }

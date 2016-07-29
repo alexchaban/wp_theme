@@ -1,0 +1,7 @@
+.top-block {
+  background: url(../media/echo-hereweare.jpg) no-repeat 50% 100% / cover;
+}
+
+.promo-block .top-block .video-holder {
+  display: none;
+}
